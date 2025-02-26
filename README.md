@@ -13,7 +13,9 @@
 Alors ce système qu'est il ? Et comment l'utiliser ?
 
 😊😊😊 Je vous présente  **EMOTISCAN**
-***EMOTISCAN*** : est un outil qui identifie l'émotions ou l'hummeur des individus, des clients et ou des patients en temps réel. Ce n'est pas seulement une application web mais un système capable de détecter ou reconnaitre l'émotions qu'anime un individus(dans votre restaurant), un client(dans votre supermarket) , un patient(dans votre centre de santé ou dans votre centre theurapeutique)en temps réel. Ce système, d’abord conçu pour la sécurité, est bien plus qu'un atout majeur dans bien d’autres domaines : le marketing, la santé, la psychologie, l'éducation. Il peut détecter le mal-être des patients dans un hôpital, améliorer les interactions en ligne ou prévenir des incidents dans les espaces publics.  
+
+***EMOTISCAN*** : 
+               est un outil qui identifie l'émotions ou l'hummeur des individus, des clients et ou des patients en temps réel. Ce n'est pas seulement une application                     web mais un système capable de détecter ou reconnaitre l'émotions qu'anime un individus(dans votre restaurant), un client(dans votre supermarket) , un                     patient(dans votre centre de santé ou dans votre centre theurapeutique)en temps réel. Ce système, d’abord conçu pour la sécurité, est bien plus qu'un                      atout majeur dans bien d’autres domaines : le marketing, la santé, la psychologie, l'éducation. Il peut détecter le mal-être des patients dans un                          hôpital, améliorer les interactions en ligne ou prévenir des incidents dans les espaces publics.  
 
 **Objectif**: Développer un système de reconnaissance d'émotions en temps réel et intégration dans une application Web
       Un outil capable d’analyser les émotions en temps réel via une simple webcam, avec un modèle d’IA puissant pour interpréter les expressions faciales avec précision.
