@@ -42,3 +42,5 @@ Alors ce système qu'est il ? Et comment l'utiliser ?
 5️⃣ **Déploiement de l’application**  
    - Héberger l’API Django (Render, Railway, AWS).  
    - Utiliser **Docker** et **NGINX** si nécessaire pour le streaming vidéo.  
+
+**NB**: Ce projet est encore en cours d'amélioration et de reviser de code. Les premiers tests ne satisfaient pas encore les conditions d'utilisations.
